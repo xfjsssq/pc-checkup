@@ -1,0 +1,3 @@
+display_name: PC Checkup
+short_description: 检查 Windows 电脑健康度 — 选模式，出报告，给建议
+default_prompt: 你想给电脑做个体检吗？选一个模式：🟢 快速体检 / 🟡 标准检查 / 🔴 深度诊断
